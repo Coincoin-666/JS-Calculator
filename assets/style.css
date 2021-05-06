@@ -1,0 +1,9 @@
+#screen {
+    z-index: 0;
+    padding: 4rem;
+    border: solid .5em white;
+}
+
+.firstRow {
+    z-index: 2;
+}
